@@ -1,0 +1,60 @@
+﻿  BoundaryParticleData2.cpp
+  Collision.cpp
+  NeighborSearcher2.cpp
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(3,53): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(3,72): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(25,21): warning C4018: “>=”: 有符号/无符号不匹配
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(32,21): warning C4018: “>=”: 有符号/无符号不匹配
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(49,11): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(50,11): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(118,16): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(119,16): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(123,13): warning C4018: “>=”: 有符号/无符号不匹配
+F:\C++\openGL\openGL\src\SPH\NeighborSearcher2.cpp(131,13): warning C4018: “>=”: 有符号/无符号不匹配
+  PBF_Collision.cpp
+  ParticleSystemData2.cpp
+  ParticleSystemSolver2.cpp
+  SphSystemData2.cpp
+F:\C++\openGL\openGL\src\SPH\SphSystemData2.cpp(71,16): warning C4018: “<”: 有符号/无符号不匹配
+  SphSystemSolver2.cpp
+F:\C++\openGL\openGL\src\SPH\SphSystemSolver2.cpp(97,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C++\openGL\openGL\src\SPH\SphSystemSolver2.cpp(139,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C++\openGL\openGL\src\SPH\SphSystemSolver2.cpp(211,20): warning C4018: “<”: 有符号/无符号不匹配
+  Versatile Rigid-fluid Coupling.cpp
+  main.cpp
+F:\C++\openGL\openGL\src\SPH\main.cpp(15,1): warning C4005: “GLEW_STATIC”: 宏重定义
+F:\C++\openGL\openGL\src\SPH\main.cpp : message : 参见“GLEW_STATIC”的前一个定义
+F:\C++\openGL\openGL\src\SPH\main.cpp(33,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\main.cpp(33,13): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\main.cpp(43,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\main.cpp(43,13): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\main.cpp(57,17): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\main.cpp(57,13): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\main.cpp(59,17): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\C++\openGL\openGL\src\SPH\main.cpp(59,13): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码...
+F:\C++\openGL\openGL\src\SPH\main.cpp(68): warning C4172: 返回局部变量或临时变量的地址: temp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+Collision.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+Collision.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+main.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+main.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+NeighborSearcher2.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+NeighborSearcher2.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+ParticleSystemData2.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+ParticleSystemData2.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+ParticleSystemSolver2.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+ParticleSystemSolver2.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+PBF_Collision.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+PBF_Collision.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+SphSystemData2.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+SphSystemData2.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+SphSystemSolver2.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+SphSystemSolver2.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+Versatile Rigid-fluid Coupling.obj : warning LNK4006: "class Vector2 leftTop" (?leftTop@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+Versatile Rigid-fluid Coupling.obj : warning LNK4006: "class Vector2 leftDown" (?leftDown@@3VVector2@@A) 已在 BoundaryParticleData2.obj 中定义；已忽略第二个定义
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+F:\C++\openGL\Debug\openGL.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“F:\C++\openGL\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  openGL.vcxproj -> F:\C++\openGL\Debug\openGL.exe
